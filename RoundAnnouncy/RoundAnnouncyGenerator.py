@@ -8,7 +8,7 @@ import threading
 
 env_path = Path(__file__).resolve().parent / '.env'
 load_dotenv(env_path)
-WEBHOOK_URL = os.getenv('WEBHOOK_test')
+WEBHOOK_URL = os.getenv('WEBHOOK')
 
 def strip_time(dt: datetime):
     return dt.replace(second=0, microsecond=0)
@@ -42,7 +42,7 @@ class RoundAnnouncement:
         self.start_in_5()
 
     def set_start_time(self, hour: int, minute: int):
-        self.start_time = self.start_time.replace(hour=hour,minute=minute)
+        self.start_time = next_5min(self.start_time.replace(hour=hour,minute=minute))
         self._update_times()
 
     def __str__(self):
