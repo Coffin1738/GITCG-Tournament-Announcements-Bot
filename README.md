@@ -53,12 +53,6 @@ pip install requests python-dotenv
 
    No quotes and no spaces around `=`. Make sure the file is saved. An unsaved `.env` is silently empty.
 
-3. **Configure the event** in `main()`:
-
-   - `decklist`: the link shown in the "Decklist Dump" line.
-   - `regions`: a mapping of region names to Discord role IDs. To get a role ID, enable Developer Mode (User Settings > Advanced), then right-click the role and choose **Copy Role ID**.
-   - `region`: which region from that mapping this run announces for.
-
 ## Usage
 
 Run the script:
