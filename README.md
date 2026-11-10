@@ -73,7 +73,7 @@ Set start time (HH:MM UTC, blank for next 5-min mark):
   
   - region field isn't case sensitive
   - game version format must follow (x-x) for it to be valid
-  - week number as well
+  - week number must be valid as well (i.e 1-5)
   - starting round time entered will be pushed up to the nearest xx:x5 minute mark (for internal consistency)
 
 ### Commands
