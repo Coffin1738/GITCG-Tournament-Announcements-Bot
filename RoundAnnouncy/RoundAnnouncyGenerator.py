@@ -149,7 +149,6 @@ def main(): # Execute main program when there is less than 5 minutes left before
 
     while True:
         status = sleep_until(anncmnt.start_time)
-        print(anncmnt.start_time)
         if status != 'arrived':
             anncmnt.restart_from_now()
             continue
