@@ -1,0 +1,1101 @@
+========================================
+Generated: 2026-11-08 05:34 UTC
+
+
+@Tournaments: America
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794116700:R> / <t:1794116700:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+========================================
+Generated: 2026-11-08 05:49 UTC
+
+
+@Tournaments: America
+
+Round 1 has begun!
+It ends <t:1794119100:R> / <t:1794119100:t>
+Inactivity losses will be handed out <t:1794117600:R> / <t:1794117600:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 05:50 UTC
+
+
+@Tournaments: America
+
+Round 1 has begun!
+It ends <t:1794119400:R> / <t:1794119400:t>
+Inactivity losses will be handed out <t:1794117900:R> / <t:1794117900:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 05:56 UTC
+
+
+@Tournaments: America
+
+Round 1 has begun!
+It ends <t:1794119700:R> / <t:1794119700:t>
+Inactivity losses will be handed out <t:1794118200:R> / <t:1794118200:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 05:56 UTC
+None
+
+====================================================================================================
+Generated: 2026-11-08 05:57 UTC
+
+
+@Tournaments: America
+
+Round 1 has begun!
+It ends <t:1794119700:R> / <t:1794119700:t>
+Inactivity losses will be handed out <t:1794118200:R> / <t:1794118200:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 05:57 UTC
+<bound method RoundAnnouncement.__str__ of <__main__.RoundAnnouncement object at 0x00000193943F82D0>>
+
+====================================================================================================
+Generated: 2026-11-08 05:57 UTC
+
+
+@Tournaments: America
+
+Round 1 has begun!
+It ends <t:1794119700:R> / <t:1794119700:t>
+Inactivity losses will be handed out <t:1794118200:R> / <t:1794118200:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 05:57 UTC
+
+
+@Tournaments: America
+
+Round 1 has begun!
+It ends <t:1794121500:R> / <t:1794121500:t>
+Inactivity losses will be handed out <t:1794120000:R> / <t:1794120000:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 05:58 UTC
+
+
+@Tournaments: America
+
+Round 1 has begun!
+It ends <t:1794119700:R> / <t:1794119700:t>
+Inactivity losses will be handed out <t:1794118200:R> / <t:1794118200:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 05:58 UTC
+
+
+@Tournaments: America
+
+Round 2 has begun!
+It ends <t:1794121500:R> / <t:1794121500:t>
+Inactivity losses will be handed out <t:1794120000:R> / <t:1794120000:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 06:12 UTC
+
+
+@Tournaments: America
+
+Round 1 has begun!
+It ends <t:1794120600:R> / <t:1794120600:t>
+Inactivity losses will be handed out <t:1794119100:R> / <t:1794119100:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 06:12 UTC
+
+
+@Tournaments: America
+
+Round 2 has begun!
+It ends <t:1794122400:R> / <t:1794122400:t>
+Inactivity losses will be handed out <t:1794120900:R> / <t:1794120900:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 07:35 UTC
+
+
+@Tournaments: America
+
+Round 1 has begun!
+It ends <t:1794125405:R> / <t:1794125405:t>
+Inactivity losses will be handed out <t:1794123905:R> / <t:1794123905:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 07:35 UTC
+
+
+@Tournaments: America
+
+Round 2 has begun!
+It ends <t:1794127205:R> / <t:1794127205:t>
+Inactivity losses will be handed out <t:1794125705:R> / <t:1794125705:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 07:36 UTC
+
+
+@Tournaments: America
+
+Round 1 has begun!
+It ends <t:1794125518:R> / <t:1794125518:t>
+Inactivity losses will be handed out <t:1794124018:R> / <t:1794124018:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 07:36 UTC
+
+
+@Tournaments: America
+
+Round 2 has begun!
+It ends <t:1794127318:R> / <t:1794127318:t>
+Inactivity losses will be handed out <t:1794125818:R> / <t:1794125818:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:02 UTC
+
+
+@Tournaments: America
+
+Round 1 has begun!
+It ends <t:1794127020:R> / <t:1794127020:t>
+Inactivity losses will be handed out <t:1794125520:R> / <t:1794125520:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:02 UTC
+
+
+@Tournaments: America
+
+Round 2 has begun!
+It ends <t:1794128820:R> / <t:1794128820:t>
+Inactivity losses will be handed out <t:1794127320:R> / <t:1794127320:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:03 UTC
+
+
+@Tournaments: America
+
+Round 1 has begun!
+It ends <t:1794127080:R> / <t:1794127080:t>
+Inactivity losses will be handed out <t:1794125580:R> / <t:1794125580:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:03 UTC
+
+
+@Tournaments: America
+
+Round 2 has begun!
+It ends <t:1794128880:R> / <t:1794128880:t>
+Inactivity losses will be handed out <t:1794127380:R> / <t:1794127380:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:08 UTC
+
+
+<@1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794127380:R> / <t:1794127380:t>
+Inactivity losses will be handed out <t:1794125880:R> / <t:1794125880:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:08 UTC
+
+
+<@1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794129180:R> / <t:1794129180:t>
+Inactivity losses will be handed out <t:1794127680:R> / <t:1794127680:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:09 UTC
+
+
+<@1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794127440:R> / <t:1794127440:t>
+Inactivity losses will be handed out <t:1794125940:R> / <t:1794125940:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:09 UTC
+
+
+<@1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794129240:R> / <t:1794129240:t>
+Inactivity losses will be handed out <t:1794127740:R> / <t:1794127740:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:11 UTC
+
+
+<@428899956804550657>
+
+Round 1 has begun!
+It ends <t:1794127560:R> / <t:1794127560:t>
+Inactivity losses will be handed out <t:1794126060:R> / <t:1794126060:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:11 UTC
+
+
+<@428899956804550657>
+
+Round 2 has begun!
+It ends <t:1794129360:R> / <t:1794129360:t>
+Inactivity losses will be handed out <t:1794127860:R> / <t:1794127860:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:12 UTC
+
+
+<@428899956804550657>
+
+Round 1 has begun!
+It ends <t:1794127620:R> / <t:1794127620:t>
+Inactivity losses will be handed out <t:1794126120:R> / <t:1794126120:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:12 UTC
+
+
+<@428899956804550657>
+
+Round 2 has begun!
+It ends <t:1794129420:R> / <t:1794129420:t>
+Inactivity losses will be handed out <t:1794127920:R> / <t:1794127920:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:14 UTC
+
+
+<@&1252478003561103472>
+
+Round 1 has begun!
+It ends <t:1794127740:R> / <t:1794127740:t>
+Inactivity losses will be handed out <t:1794126240:R> / <t:1794126240:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:14 UTC
+
+
+<@&1252478003561103472>
+
+Round 2 has begun!
+It ends <t:1794129540:R> / <t:1794129540:t>
+Inactivity losses will be handed out <t:1794128040:R> / <t:1794128040:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:14 UTC
+
+
+<@&1252478003561103472>
+
+Round 1 has begun!
+It ends <t:1794127740:R> / <t:1794127740:t>
+Inactivity losses will be handed out <t:1794126240:R> / <t:1794126240:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:14 UTC
+
+
+<@&1252478003561103472>
+
+Round 2 has begun!
+It ends <t:1794129540:R> / <t:1794129540:t>
+Inactivity losses will be handed out <t:1794128040:R> / <t:1794128040:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:16 UTC
+
+
+<@&1252478003561103472>
+
+Round 1 has begun!
+It ends <t:1794127860:R> / <t:1794127860:t>
+Inactivity losses will be handed out <t:1794126360:R> / <t:1794126360:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 08:16 UTC
+
+
+<@&1252478003561103472>
+
+Round 2 has begun!
+It ends <t:1794129660:R> / <t:1794129660:t>
+Inactivity losses will be handed out <t:1794128160:R> / <t:1794128160:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 09:01 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794130560:R> / <t:1794130560:t>
+Inactivity losses will be handed out <t:1794129060:R> / <t:1794129060:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 09:01 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794132360:R> / <t:1794132360:t>
+Inactivity losses will be handed out <t:1794130860:R> / <t:1794130860:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 09:02 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794130620:R> / <t:1794130620:t>
+Inactivity losses will be handed out <t:1794129120:R> / <t:1794129120:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 09:02 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794132420:R> / <t:1794132420:t>
+Inactivity losses will be handed out <t:1794130920:R> / <t:1794130920:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 09:02 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794130620:R> / <t:1794130620:t>
+Inactivity losses will be handed out <t:1794129120:R> / <t:1794129120:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 09:02 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794132420:R> / <t:1794132420:t>
+Inactivity losses will be handed out <t:1794130920:R> / <t:1794130920:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 09:04 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794130740:R> / <t:1794130740:t>
+Inactivity losses will be handed out <t:1794129240:R> / <t:1794129240:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 09:04 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794132540:R> / <t:1794132540:t>
+Inactivity losses will be handed out <t:1794131040:R> / <t:1794131040:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 09:05 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794130800:R> / <t:1794130800:t>
+Inactivity losses will be handed out <t:1794129300:R> / <t:1794129300:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 09:05 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794132600:R> / <t:1794132600:t>
+Inactivity losses will be handed out <t:1794131100:R> / <t:1794131100:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 09:08 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794130980:R> / <t:1794130980:t>
+Inactivity losses will be handed out <t:1794129480:R> / <t:1794129480:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 09:08 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794132780:R> / <t:1794132780:t>
+Inactivity losses will be handed out <t:1794131280:R> / <t:1794131280:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/na/1/decks>)
+
+====================================================================================================
+====================================================================================================
+====================================================================================================
+Generated: 2026-11-08 10:40 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794136500:R> / <t:1794136500:t>
+Inactivity losses will be handed out <t:1794135000:R> / <t:1794135000:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 11:00 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794137700:R> / <t:1794137700:t>
+Inactivity losses will be handed out <t:1794136200:R> / <t:1794136200:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 11:25 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794139200:R> / <t:1794139200:t>
+Inactivity losses will be handed out <t:1794137700:R> / <t:1794137700:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 11:50 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794140700:R> / <t:1794140700:t>
+Inactivity losses will be handed out <t:1794139200:R> / <t:1794139200:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 12:20 UTC
+
+
+<@&1050374179167412234>
+
+Round 4 has begun!
+It ends <t:1794142500:R> / <t:1794142500:t>
+Inactivity losses will be handed out <t:1794141000:R> / <t:1794141000:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-08 12:45 UTC
+
+
+<@&1050374179167412234>
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794142500:R> / <t:1794142500:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 04:35 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794201000:R> / <t:1794201000:t>
+Inactivity losses will be handed out <t:1794199500:R> / <t:1794199500:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 04:40 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794201300:R> / <t:1794201300:t>
+Inactivity losses will be handed out <t:1794199800:R> / <t:1794199800:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 04:45 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794201600:R> / <t:1794201600:t>
+Inactivity losses will be handed out <t:1794200100:R> / <t:1794200100:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 04:50 UTC
+
+
+<@&1050374179167412234>
+
+Round 3 has begun!
+It ends <t:1794201900:R> / <t:1794201900:t>
+Inactivity losses will be handed out <t:1794200400:R> / <t:1794200400:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 04:55 UTC
+
+
+<@&1050374179167412234>
+
+Round 4 has begun!
+It ends <t:1794202200:R> / <t:1794202200:t>
+Inactivity losses will be handed out <t:1794200700:R> / <t:1794200700:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 05:00 UTC
+
+
+<@&1050374179167412234>
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794201000:R> / <t:1794201000:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 05:15 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794203400:R> / <t:1794203400:t>
+Inactivity losses will be handed out <t:1794201900:R> / <t:1794201900:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 05:20 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794203700:R> / <t:1794203700:t>
+Inactivity losses will be handed out <t:1794202200:R> / <t:1794202200:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 05:25 UTC
+
+
+<@&1050374179167412234>
+
+Round 3 has begun!
+It ends <t:1794204000:R> / <t:1794204000:t>
+Inactivity losses will be handed out <t:1794202500:R> / <t:1794202500:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 05:30 UTC
+
+
+<@&1050374179167412234>
+
+Round 4 has begun!
+It ends <t:1794204300:R> / <t:1794204300:t>
+Inactivity losses will be handed out <t:1794202800:R> / <t:1794202800:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 05:40 UTC
+
+
+<@&1050374179167412234>
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794203400:R> / <t:1794203400:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 06:10 UTC
+
+
+<@&1050374179167412234>
+
+Round 4 has begun!
+It ends <t:1794206700:R> / <t:1794206700:t>
+Inactivity losses will be handed out <t:1794205200:R> / <t:1794205200:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 06:30 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794205920:R> / <t:1794205920:t>
+Inactivity losses will be handed out <t:1794205860:R> / <t:1794205860:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 06:32 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794206040:R> / <t:1794206040:t>
+Inactivity losses will be handed out <t:1794205980:R> / <t:1794205980:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 06:34 UTC
+
+
+<@&1050374179167412234>
+
+Round 3 has begun!
+It ends <t:1794206160:R> / <t:1794206160:t>
+Inactivity losses will be handed out <t:1794206100:R> / <t:1794206100:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 06:36 UTC
+
+
+<@&1050374179167412234>
+
+Round 4 has begun!
+It ends <t:1794206280:R> / <t:1794206280:t>
+Inactivity losses will be handed out <t:1794206220:R> / <t:1794206220:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 06:38 UTC
+
+
+<@&1050374179167412234>
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794206340:R> / <t:1794206340:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 07:05 UTC
+
+
+<@&1050374179167412234>
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794207960:R> / <t:1794207960:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 07:11 UTC
+
+
+<@&1050374179167412234>
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794208320:R> / <t:1794208320:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 07:14 UTC
+
+
+<@&1050374179167412234>
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794208500:R> / <t:1794208500:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 07:27 UTC
+
+
+<@&1050374179167412234>
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794209280:R> / <t:1794209280:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 07:41 UTC
+
+
+<@&1050374169730232381>
+
+Round 1 has begun!
+It ends <t:1794210120:R> / <t:1794210120:t>
+Inactivity losses will be handed out <t:1794210120:R> / <t:1794210120:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 07:42 UTC
+
+
+<@&1050374169730232381>
+
+Round 2 has begun!
+It ends <t:1794210180:R> / <t:1794210180:t>
+Inactivity losses will be handed out <t:1794210180:R> / <t:1794210180:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 07:43 UTC
+
+
+<@&1050374169730232381>
+
+Round 3 has begun!
+It ends <t:1794210240:R> / <t:1794210240:t>
+Inactivity losses will be handed out <t:1794210240:R> / <t:1794210240:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 07:44 UTC
+
+
+<@&1050374169730232381>
+
+Round 4 has begun!
+It ends <t:1794210300:R> / <t:1794210300:t>
+Inactivity losses will be handed out <t:1794210300:R> / <t:1794210300:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 07:45 UTC
+
+
+<@&1050374169730232381>
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794210360:R> / <t:1794210360:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 09:40 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794219300:R> / <t:1794219300:t>
+Inactivity losses will be handed out <t:1794217800:R> / <t:1794217800:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 09:45 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794219600:R> / <t:1794219600:t>
+Inactivity losses will be handed out <t:1794218100:R> / <t:1794218100:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 09:50 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794217860:R> / <t:1794217860:t>
+Inactivity losses will be handed out <t:1794217860:R> / <t:1794217860:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 09:51 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794217920:R> / <t:1794217920:t>
+Inactivity losses will be handed out <t:1794217920:R> / <t:1794217920:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 09:52 UTC
+
+
+<@&1050374179167412234>
+
+Round 3 has begun!
+It ends <t:1794217980:R> / <t:1794217980:t>
+Inactivity losses will be handed out <t:1794217980:R> / <t:1794217980:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 09:53 UTC
+
+
+<@&1050374179167412234>
+
+Round 4 has begun!
+It ends <t:1794218040:R> / <t:1794218040:t>
+Inactivity losses will be handed out <t:1794218040:R> / <t:1794218040:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 09:54 UTC
+
+
+<@&1050374179167412234>
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794218100:R> / <t:1794218100:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 11:24 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794223500:R> / <t:1794223500:t>
+Inactivity losses will be handed out <t:1794223500:R> / <t:1794223500:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 11:25 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794223560:R> / <t:1794223560:t>
+Inactivity losses will be handed out <t:1794223560:R> / <t:1794223560:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 11:26 UTC
+
+
+<@&1050374179167412234>
+
+Round 3 has begun!
+It ends <t:1794223620:R> / <t:1794223620:t>
+Inactivity losses will be handed out <t:1794223620:R> / <t:1794223620:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 11:27 UTC
+
+
+<@&1050374179167412234>
+
+Round 4 has begun!
+It ends <t:1794223680:R> / <t:1794223680:t>
+Inactivity losses will be handed out <t:1794223680:R> / <t:1794223680:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 11:28 UTC
+
+
+<@&1050374179167412234>
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794223740:R> / <t:1794223740:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 12:00 UTC
+
+
+<@&1050374179167412234>
+
+Round 1 has begun!
+It ends <t:1794225660:R> / <t:1794225660:t>
+Inactivity losses will be handed out <t:1794225660:R> / <t:1794225660:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 12:01 UTC
+
+
+<@&1050374179167412234>
+
+Round 2 has begun!
+It ends <t:1794225720:R> / <t:1794225720:t>
+Inactivity losses will be handed out <t:1794225720:R> / <t:1794225720:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
+====================================================================================================
+Generated: 2026-11-09 12:02 UTC
+
+
+<@&1050374179167412234>
+
+Round 5 has begun!
+Inactivity losses will be handed out <t:1794225780:R> / <t:1794225780:t>
+
+[Decklist Dump](<https://gitcg-community.vercel.app/en/weekly/7-2/as/1/decks>)
+
