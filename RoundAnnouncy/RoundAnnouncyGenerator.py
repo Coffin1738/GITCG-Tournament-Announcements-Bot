@@ -26,7 +26,7 @@ class RoundAnnouncement:
     
     def _update_times(self):
         self.end_time = self.start_time + timedelta(minutes=35)
-        self.inactivity_time = self.start_time + timedelta(minutes=35)
+        self.inactivity_time = self.start_time + timedelta(minutes=10)
 
     def next_round_limit(self):
         self.start_time += timedelta(minutes=35)
@@ -42,13 +42,13 @@ class RoundAnnouncement:
         self.start_in_5()
 
     def set_start_time(self, hour: int, minute: int):
-        self.start_time = next_5min(self.start_time.replace(hour=hour,minute=minute))
-        self._update_times()
+        self.start_time.replace(hour=hour,minute=minute)
+        self.start_in_5()
 
     def __str__(self):
         if self.round_no == 5:
-            return f'\n\n>>> <@&{self.region}>\n\n' + f'Round {self.round_no} has begun!\n' + f'Inactivity losses will be handed out <t:{int(self.inactivity_time.timestamp())}:R> / <t:{int(self.inactivity_time.timestamp())}:t>\n\n'+ f'[Decklist Dump](<{self.decklist}>)'
-        return f'\n\n>>> <@&{self.region}>\n\n' + f'Round {self.round_no} has begun!\n' + f'It ends <t:{int(self.end_time.timestamp())}:R> / <t:{int(self.end_time.timestamp())}:t>\n' + f'Inactivity losses will be handed out <t:{int(self.inactivity_time.timestamp())}:R> / <t:{int(self.inactivity_time.timestamp())}:t>\n\n'+ f'[Decklist Dump](<{self.decklist}>)'
+            return f'\n\n<@&{self.region}>\n' + f'## Round {self.round_no} has begun! <:pitacheer:1107216120273977344>\n' + f'>>> Inactivity losses will be handed out <t:{int(self.inactivity_time.timestamp())}:R> / <t:{int(self.inactivity_time.timestamp())}:t>\n\n'+ f'[Decklist Dump](<{self.decklist}>)'
+        return f'\n\n<@&{self.region}>\n' + f'## Round {self.round_no} has begun! <:pitacheer:1107216120273977344>\n' + f'>>> It ends <t:{int(self.end_time.timestamp())}:R> / <t:{int(self.end_time.timestamp())}:t>\n' + f'Inactivity losses will be handed out <t:{int(self.inactivity_time.timestamp())}:R> / <t:{int(self.inactivity_time.timestamp())}:t>\n\n'+ f'[Decklist Dump](<{self.decklist}>)'
 
 def log_announcement(log_ancmnt: str, path=Path(__file__).resolve().parent / 'RoundAnnouncement2.txt'):
     generated = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
@@ -123,9 +123,8 @@ def main(): # Execute main program when there is less than 5 minutes left before
     region_name = input('Pick Region (Asia, America, Europe): ').lower()
     version = input('Please enter game version (7-0, 7-1, 7-2, etc.): ')
     week = input('Please enter week no.: ')
-    reg = regions[region_name][1]
-    region = regions[region_name][0]
-    decklist = f'https://gitcg-community.vercel.app/en/weekly/{version}/{reg}/{week}/decks'
+    
+    decklist = f'https://gitcg-community.vercel.app/en/weekly/{version}/{regions[region_name][1]}/{week}/decks'
     
     try:
         start_round = int(input('Starting round (1-5, default will be 1 if input is invalid): ') or 1)
@@ -134,7 +133,7 @@ def main(): # Execute main program when there is less than 5 minutes left before
     except ValueError:
         start_round = 1
 
-    anncmnt = RoundAnnouncement(start_round, region, decklist)
+    anncmnt = RoundAnnouncement(start_round, regions[region_name][0], decklist)
     
     try:
         hour, minute = map(int, input('Set start time (HH:MM UTC, blank for next 5-min mark): ').split(':'))
@@ -142,7 +141,7 @@ def main(): # Execute main program when there is less than 5 minutes left before
     except ValueError:
         print('Invalid time, using the next 5-minute mark.')
         anncmnt.start_in_5()
-    
+
     threading.Thread(target=input_listener, daemon=True).start()
     print("Type 's', 'p', 'r' to start, pause or resume the round.")
 
@@ -150,6 +149,7 @@ def main(): # Execute main program when there is less than 5 minutes left before
 
     while True:
         status = sleep_until(anncmnt.start_time)
+        print(anncmnt.start_time)
         if status != 'arrived':
             anncmnt.restart_from_now()
             continue
@@ -172,7 +172,7 @@ def main(): # Execute main program when there is less than 5 minutes left before
     while sleep_until(anncmnt.end_time) != 'arrived':
         pass
 
-    send_with_retry(f'## {region_name.capitalize()} Weekly Tournament is concluding...\n>>> Commencing end of announcements...\nSending regards to all remaining players...\n **[{region_name} Decklist Dump]({decklist}) <:kleesis:1098293491278286878>**') 
+    send_with_retry(f'## {region_name.capitalize()} Weekly Tournament is concluding...\n>>> Commencing end of announcements...\nSending regards to all remaining players...\n **[{region_name.capitalize()} Decklist Dump]({decklist}) <:kleesis:1098293491278286878>**') 
     
     try:
         delete_announcement(previous_id)
