@@ -47,8 +47,8 @@ class RoundAnnouncement:
 
     def __str__(self):
         if self.round_no == 5:
-            return f'\n\n>>><@&{self.region}>\n\n' + f'Round {self.round_no} has begun!\n' + f'Inactivity losses will be handed out <t:{int(self.inactivity_time.timestamp())}:R> / <t:{int(self.inactivity_time.timestamp())}:t>\n\n'+ f'[Decklist Dump](<{self.decklist}>)'
-        return f'\n\n>>><@&{self.region}>\n\n' + f'Round {self.round_no} has begun!\n' + f'It ends <t:{int(self.end_time.timestamp())}:R> / <t:{int(self.end_time.timestamp())}:t>\n' + f'Inactivity losses will be handed out <t:{int(self.inactivity_time.timestamp())}:R> / <t:{int(self.inactivity_time.timestamp())}:t>\n\n'+ f'[Decklist Dump](<{self.decklist}>)'
+            return f'\n\n>>> <@&{self.region}>\n\n' + f'Round {self.round_no} has begun!\n' + f'Inactivity losses will be handed out <t:{int(self.inactivity_time.timestamp())}:R> / <t:{int(self.inactivity_time.timestamp())}:t>\n\n'+ f'[Decklist Dump](<{self.decklist}>)'
+        return f'\n\n>>> <@&{self.region}>\n\n' + f'Round {self.round_no} has begun!\n' + f'It ends <t:{int(self.end_time.timestamp())}:R> / <t:{int(self.end_time.timestamp())}:t>\n' + f'Inactivity losses will be handed out <t:{int(self.inactivity_time.timestamp())}:R> / <t:{int(self.inactivity_time.timestamp())}:t>\n\n'+ f'[Decklist Dump](<{self.decklist}>)'
 
 def log_announcement(log_ancmnt: str, path=Path(__file__).resolve().parent / 'RoundAnnouncement2.txt'):
     generated = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
@@ -172,7 +172,7 @@ def main(): # Execute main program when there is less than 5 minutes left before
     while sleep_until(anncmnt.end_time) != 'arrived':
         pass
 
-    send_with_retry(f'## {region_name.capitalize()} Weekly Tournament is concluding...\n>>>Commencing end of announcements...\nSending regards to all remaining players...\n **[{region_name} Decklist Dump]({decklist}) <:kleesis:1098293491278286878>**') 
+    send_with_retry(f'## {region_name.capitalize()} Weekly Tournament is concluding...\n>>> Commencing end of announcements...\nSending regards to all remaining players...\n **[{region_name} Decklist Dump]({decklist}) <:kleesis:1098293491278286878>**') 
     
     try:
         delete_announcement(previous_id)
