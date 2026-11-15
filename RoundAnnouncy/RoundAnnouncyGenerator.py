@@ -8,7 +8,7 @@ import threading
 
 env_path = Path(__file__).resolve().parent / '.env'
 load_dotenv(env_path)
-WEBHOOK_URL = os.getenv('WEBHOOK')
+WEBHOOK_URL = os.getenv('WEBHOOK_test')
 
 def strip_time(dt: datetime):
     return dt.replace(second=0, microsecond=0)
@@ -46,7 +46,7 @@ class RoundAnnouncement:
         self.start_in_5()
 
     def set_start_time(self, hour: int, minute: int):
-        self.start_time.replace(hour=hour,minute=minute)
+        self.start_time = strip_time(datetime.now().replace(hour=hour,minute=minute).astimezone(timezone.utc))
         self.start_in_5()
 
     def __str__(self):
@@ -54,14 +54,14 @@ class RoundAnnouncement:
             return f'## Round {self.round_no} has begun! <:pitacheer:1107216120273977344>\n' + f'Inactivity losses will be handed out <t:{int(self.inactivity_time.timestamp())}:R> / <t:{int(self.inactivity_time.timestamp())}:t>\n\n'+ f'[Decklist Dump](<{self.decklist}>)'
         return f'## Round {self.round_no} has begun! <:pitacheer:1107216120273977344>\n' + f'It ends <t:{int(self.end_time.timestamp())}:R> / <t:{int(self.end_time.timestamp())}:t>\n' + f'Inactivity losses will be handed out <t:{int(self.inactivity_time.timestamp())}:R> / <t:{int(self.inactivity_time.timestamp())}:t>\n\n'+ f'[Decklist Dump](<{self.decklist}>)'
 
-def log_announcement(ping: str, log_ancmnt: str, msg_id: str, path=Path(__file__).resolve().parent / 'RoundAnnouncement2.txt'):
+def log_announcement(log_ancmnt: str, msg_id: str, ping: str='', path=Path(__file__).resolve().parent / 'RoundAnnouncement2.txt'):
     generated = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
     with open(path, 'a', encoding='utf-8') as f:
         f.write(f'{"=" * 100}\n')
         f.write(f'Generated: {generated}\n')
         f.write(f'{str(ping)}\n{str(log_ancmnt)}\n\nMessage ID: {msg_id}\n\n')
 
-def send_announcement(ping: str, anncmnt: str, web_hook: str):
+def send_announcement(anncmnt: str, web_hook: str, ping: str=''):
     payload = {
         'username': 'Ineffa-bot',
         'avatar_url': 'https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3484/92b2f1481ebbf678390fa1ad25ea5f6c.png',
@@ -70,7 +70,7 @@ def send_announcement(ping: str, anncmnt: str, web_hook: str):
             {
                 'description': str(anncmnt),
                 'color': 0x84603D,
-                'image': {'url': 'https://github.com/Coffin1738/GITCG-Tournament-Announcements-Bot/blob/main/Weekly%20Bot%20Graphic.png?raw=true'},
+                'image': {'url': 'https://github.com/Coffin1738/GITCG-Tournament-Announcements-Bot/blob/main/Weekly%20Bot%20Graphic%20(2).png?raw=true'},
                 'footer': {'text': 'Enter the match before check-in closes'},
                 'timestamp': datetime.now(timezone.utc).isoformat(),
             }
@@ -83,25 +83,24 @@ def send_announcement(ping: str, anncmnt: str, web_hook: str):
         timeout=10,
     )
     r.raise_for_status()
-    return r.json()['id']
-
-def delete_announcement(message_id: str, web_hook: str):
-    r = requests.delete(f'{web_hook}/messages/{message_id}', timeout=10)
-    r.raise_for_status()
+    return r.json()['id']    
 
 def delete_with_error(message_id: str, web_hook: str):
     try:
-        delete_announcement(message_id, web_hook)
+        r = requests.delete(f'{web_hook}/messages/{message_id}', timeout=10)
+        r.raise_for_status()
     except requests.RequestException as e:
         print(f'Could not delete previous message: {e}')
 
-def send_with_retry(ping: str, anncmnt: str, web_hook: str, attempts=3):
+def send_with_retry(anncmnt: str, web_hook: str, ping: str='', attempts=3):
     for i in range(attempts):
         try:
-            return send_announcement(ping, anncmnt, web_hook)
+            msg_id = send_announcement(anncmnt, web_hook, ping)
+            log_announcement(anncmnt, msg_id, ping)
+            return msg_id
         except requests.RequestException as e:
             print(f'Send failed ({e}), retry {i + 1}/{attempts}')
-            time.sleep(5)
+            time.sleep(5)    
     raise RuntimeError('Could not send announcement')
 
 skip_event = threading.Event()
@@ -128,7 +127,6 @@ def sleep_until(target: datetime):
                 pass
             skip_event.clear()
             return 'resumed'
-
         remaining = (target - datetime.now(timezone.utc)).total_seconds()
         if remaining <= 0:
             return 'arrived'
@@ -162,6 +160,7 @@ def main(): # Execute main program when there is less than 5 minutes left before
     try:
         hour, minute = map(int, input('Set start time (HH:MM UTC, blank for next 5-min mark): ').split(':'))
         anncmnt.set_start_time(hour, minute)
+        print(anncmnt.start_time)
     except ValueError:
         print('Invalid time, using the next 5-minute mark.')
         anncmnt.start_in_5()
@@ -177,8 +176,7 @@ def main(): # Execute main program when there is less than 5 minutes left before
             anncmnt.restart_from_now()
             continue
 
-        message_id = send_with_retry(anncmnt.region, anncmnt, WEBHOOK_URL)
-        log_announcement(anncmnt.region, anncmnt, message_id)
+        message_id = send_with_retry(anncmnt, WEBHOOK_URL, anncmnt.region)
         skip_event.clear()
 
         if previous_id:
@@ -194,9 +192,8 @@ def main(): # Execute main program when there is less than 5 minutes left before
         pass
 
     message = f'## {region_name.capitalize()} Weekly Tournament is concluding...\n Commencing end of announcements...\nSending regards to all remaining players...\n\n **[{region_name.capitalize()} Decklist Dump]({decklist}) <:kleesis:1098293491278286878>**'
-    close_id = send_with_retry('', message, WEBHOOK_URL) 
+    close_id = send_with_retry(message, WEBHOOK_URL) 
     delete_with_error(previous_id, WEBHOOK_URL)
-    log_announcement('', message, close_id)
     
     print('Closing message sent. Done.')
 
