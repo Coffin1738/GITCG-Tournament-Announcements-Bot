@@ -8,7 +8,7 @@ import threading
 
 env_path = Path(__file__).resolve().parent / '.env'
 load_dotenv(env_path)
-WEBHOOK_URL = os.getenv('WEBHOOK_test')
+WEBHOOK_URL = os.getenv('WEBHOOK')
 
 def strip_time(dt: datetime):
     return dt.replace(second=0, microsecond=0)
@@ -47,7 +47,10 @@ class RoundAnnouncement:
 
     def set_start_time(self, hour: int, minute: int):
         self.start_time = strip_time(datetime.now().replace(hour=hour,minute=minute).astimezone(timezone.utc))
-        self.start_in_5()
+        if minute % 5 == 0:
+            self._update_times()
+        else:
+            self.start_in_5()
 
     def __str__(self):
         if self.round_no == 5:
@@ -186,6 +189,7 @@ def main(): # Execute main program when there is less than 5 minutes left before
 
         if anncmnt.round_no >= 5:
             break
+        
         anncmnt.next_round_limit()
 
     while sleep_until(anncmnt.end_time) != 'arrived':
@@ -196,6 +200,5 @@ def main(): # Execute main program when there is less than 5 minutes left before
     delete_with_error(previous_id, WEBHOOK_URL)
     
     print('Closing message sent. Done.')
-
 if __name__ == "__main__":
     main()
